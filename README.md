@@ -60,7 +60,8 @@ g++ *.cpp -o filter_studio
 ```
 
 
-### Execution
+## Execution
+
 Run the compiled executable:
 
 ```Bash
@@ -70,5 +71,6 @@ filter_studio.exe
 # On Linux/macOS
 ./filter_studio
 ```
-### Authors
+## Authors
+
 Sameer Majid FAST-NUCES | CS1004 — Object Oriented Programming | Spring 2026
